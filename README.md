@@ -1,8 +1,9 @@
 # Ethersocial-bot
-```It is easy to use node.js Telegram Bot library.
-```Feel free to ask anything.
-```For example your bot can answer pre-designated questions.
-```If you ask the bot about "What is your name?", the bot has no idea who he is. However you can tell him by using this Ethersocial-bot!!
+It is easy to use node.js Telegram Bot library.
+Feel free to ask anything.
+For example your bot can answer pre-designated questions.
+If you ask the bot about "What is your name?", the bot has no idea who he is. 
+However you can tell him by using this Ethersocial-bot!!
 
 
 
