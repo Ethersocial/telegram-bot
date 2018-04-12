@@ -21,7 +21,7 @@ Only you can give him a name.
 ## Requirements
 * Server
 * Node.js module
-* Bot Token : Contact [@botfather](https://telegram.me/BotFather)
+* Bot Token : Contact [@botfather](https://telegram.me/BotFather) on Telegram
 
 
 
@@ -106,5 +106,5 @@ take their time and effort in advancing this project.
 [tg-channel]:https://telegram.me/node_telegram_bot_api
 
 
-##
-More details : [Telegram Bot API](https://core.telegram.org/bots/api)
+## Details
+[Telegram Bot API](https://core.telegram.org/bots/api)
