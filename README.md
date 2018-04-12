@@ -1,17 +1,32 @@
 # Ethersocial-bot
 It is easy to use node.js Telegram Bot library.
 Feel free to ask anything.
-For example your bot can answer pre-designated questions.
+
+
+
+
+## Intro
+Your telegram-bot can answer many questions
+even when you are asleep.
+For example your bot can answer pre-designed questions.
 If you ask the bot about "What is your name?", the bot has no idea who he is. 
 However you can tell him by using this Ethersocial-bot!!
 
 
+## Requirements
+* Server
+* Node.js module
+* Bot Token : Contact [@botfather](https://telegram.me/BotFather)
+
+
+
 
 ## Install
-
 ```bash
 npm install --save node-telegram-bot-api
 ```
+
+
 
 ## Sample Usage
 
@@ -47,6 +62,9 @@ bot.on('message', (msg) => {
 });
 ```
 
+
+
+
 ## Documentation
 
 * [Usage][usage]
@@ -70,9 +88,6 @@ We thank all the developers in the Open-Source community who continuously
 take their time and effort in advancing this project.
 
 
-
-
-
 [usage]:https://github.com/yagop/node-telegram-bot-api/tree/master/doc/usage.md
 [examples]:https://github.com/yagop/node-telegram-bot-api/tree/master/examples
 [help]:https://github.com/yagop/node-telegram-bot-api/tree/master/doc/help.md
@@ -86,15 +101,5 @@ take their time and effort in advancing this project.
 [tg-channel]:https://telegram.me/node_telegram_bot_api
 
 
-
-
-
-[![Bot API](https://img.shields.io/badge/Bot%20API-v.3.5.0-00aced.svg)](https://core.telegram.org/bots/api)
-[![Build Status](https://travis-ci.org/yagop/node-telegram-bot-api.svg?branch=master)](https://travis-ci.org/yagop/node-telegram-bot-api)
-[![Build status](https://ci.appveyor.com/api/projects/status/ujko6bsum3g5msjh/branch/master?svg=true)](https://ci.appveyor.com/project/yagop/node-telegram-bot-api/branch/master)
-[![Coverage Status](https://coveralls.io/repos/yagop/node-telegram-bot-api/badge.svg?branch=master)](https://coveralls.io/r/yagop/node-telegram-bot-api?branch=master)
-[![bitHound Score](https://www.bithound.io/github/yagop/node-telegram-bot-api/badges/score.svg)](https://www.bithound.io/github/yagop/node-telegram-bot-api)
-[![https://telegram.me/node_telegram_bot_api](https://img.shields.io/badge/💬%20Telegram-node__telegram__bot__api-blue.svg)](https://telegram.me/node_telegram_bot_api)
-[![https://telegram.me/Yago_Perez](https://img.shields.io/badge/💬%20Telegram-Yago__Perez-blue.svg)](https://telegram.me/Yago_Perez)
-
-Node.js module to interact with official [Telegram Bot API](https://core.telegram.org/bots/api). A bot token is **required** and can be obtained by talking to [@botfather](https://telegram.me/BotFather).
+##
+More details : [Telegram Bot API](https://core.telegram.org/bots/api)
