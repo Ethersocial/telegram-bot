@@ -2,7 +2,9 @@
 It is easy to use node.js Telegram Bot library.
 Feel free to ask anything.
 
-
+## Ethersocial Telegram bot
+Feel free to visit https://t.me/ethersocialofficial
+* [Code](https://github.com/dgson/ethersocial-bot/blob/master/examples/Ethersocial.js)
 
 
 ## Intro
