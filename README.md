@@ -10,7 +10,10 @@ Your telegram-bot can answer many questions
 even when you are asleep.
 For example your bot can answer pre-designed questions.
 If you ask the bot about "What is your name?", the bot has no idea who he is. 
-However you can tell him by using this Ethersocial-bot!!
+Only you can give him a name.
+
+
+
 
 
 ## Requirements
